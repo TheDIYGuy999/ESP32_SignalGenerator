@@ -1,4 +1,4 @@
-# Simple siganl generator for ESP32
+# Simple signal generator for ESP32
 
 The original autor is "AZ Delivery": https://www.az-delivery.de/en/blogs/azdelivery-blog-fur-arduino-und-raspberry-pi/funktionsgenerator-mit-dem-esp32-teil1
 
